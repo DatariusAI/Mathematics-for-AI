@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-08 14:39 UTC_
+_Last refreshed: 2026-10-08 14:41 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -36,13 +36,13 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 | Date | Paper | Authors |
 |---|---|---|
 | 2026-10-07 | [Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping](https://arxiv.org/abs/2610.10527) | Aleksandar Armacki et al. |
-| 2026-10-07 | [Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate Fields](https://arxiv.org/abs/2610.10430) | Peng Liu et al. |
-| 2026-10-07 | [Steerspeech: Activation Steering For Emotion Control In Generated Speech](https://arxiv.org/abs/2610.10415) | Afsara Benazir et al. |
-| 2026-10-07 | [Physics-Aligned Electronic Ground-State Learning Improves Generalization](https://arxiv.org/abs/2610.10298) | Eike S. Eberhard et al. |
-| 2026-10-07 | [A Closed-Loop Non-Asymptotic Convergence Analysis of PPO with Learned Critics and Clipping](https://arxiv.org/abs/2610.10273) | Junwei Su et al. |
-| 2026-10-07 | [From Prompts to Trees: Effective LLM-Guided Tree Generation for Few-Shot Tabular Classification](https://arxiv.org/abs/2610.10227) | Yue Qiu et al. |
-| 2026-10-07 | [OrthoGen: A Generative Orthogonal Learner for Time-Varying Treatments](https://arxiv.org/abs/2610.10210) | Tomàs Garriga et al. |
-| 2026-10-07 | [A Unified Information-Theoretic Approach to Constrained Multi-Fidelity Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2610.10174) | Rikuto Matsumoto et al. |
+| 2026-10-07 | [Why Forget-Only Unlearning Needs Memorization](https://arxiv.org/abs/2610.10519) | Luka Radić et al. |
+| 2026-10-07 | [Rubix: Global Correspondence-Free Point Set Alignment through Assignment Geometry](https://arxiv.org/abs/2610.10408) | Subhransu S. Bhattacharjee et al. |
+| 2026-10-07 | [Safe Meta-Policy Design with Risk Control](https://arxiv.org/abs/2610.10393) | Wenbin Zhou et al. |
+| 2026-10-07 | [Pathwise Information Certificates for Decentralized Adaptive Sensing](https://arxiv.org/abs/2610.10362) | Theodoros Tsiligkaridis |
+| 2026-10-07 | [Average-Reward Reinforcement Learning for Multichain MDPs: A Hierarchical Decomposition Approach](https://arxiv.org/abs/2610.10326) | Huizhen Yu et al. |
+| 2026-10-07 | [Neural Sampling with Reweighted Normalizing Flows via the Wasserstein--Fisher--Rao JKO Scheme](https://arxiv.org/abs/2610.10278) | Chenguang Duan et al. |
+| 2026-10-07 | [RoBART: Bayesian Additive Regression Trees with Tree-Specific Rotations](https://arxiv.org/abs/2610.10214) | Jeongung Heo et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
