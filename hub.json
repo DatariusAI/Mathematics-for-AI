@@ -1,0 +1,17 @@
+{
+  "arxiv_query": "(cat:stat.ML OR cat:cs.LG OR cat:math.OC) AND (ti:theory OR ti:theoretical OR ti:convergence OR ti:generalization OR ti:\"mathematical\")",
+  "arxiv_max": 8,
+  "repos_per_section": 8,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "CODE",
+      "queries": [
+        "mathematics for machine learning",
+        "linear algebra machine learning",
+        "probability statistics machine learning",
+        "math for data science"
+      ]
+    }
+  ]
+}
