@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-11 10:54 UTC_
+_Last refreshed: 2026-10-12 04:49 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -35,14 +35,14 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-08 | [Subspace Uncertainty and Sharp Sampling Thresholds on the Boolean Cube](https://arxiv.org/abs/2610.12358) | Thomas Weinberger |
-| 2026-10-08 | [asdex: Automatic Sparse Differentiation in JAX](https://arxiv.org/abs/2610.12336) | Adrian Hill et al. |
-| 2026-10-08 | [Composite Online-to-Nonconvex Conversion with Optimal Oracle Complexity](https://arxiv.org/abs/2610.12328) | Mingyi Li et al. |
-| 2026-10-08 | [Testing Algebraic Complete Intersections](https://arxiv.org/abs/2610.12288) | Alessandro Tamai |
-| 2026-10-08 | [Verification with Transfer: Exact Information Frontiers and Their Price in Calls](https://arxiv.org/abs/2610.12211) | Hazar Yueksel |
-| 2026-10-08 | [A structure-preserving neural density functional for the ions of a polymer electrolyte](https://arxiv.org/abs/2610.12132) | Liyao Lyu |
-| 2026-10-08 | [Efficient quadratic entropy with distance sketches](https://arxiv.org/abs/2610.11976) | Steve Huntsman |
-| 2026-10-08 | [RobustLDS: Learning linear dynamical systems under adversarial corruptions](https://arxiv.org/abs/2610.11906) | Aravinda Kanchana Ruwanpathirana et al. |
+| 2026-10-09 | [KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling](https://arxiv.org/abs/2610.13924) | Tianyi Wu |
+| 2026-10-09 | [Markov Chain Convergence in Kernel-Induced Geometry](https://arxiv.org/abs/2610.13916) | Oleksii Kachaiev et al. |
+| 2026-10-09 | [Constrained Probabilistic Numerics: Gaussian Process Solvers for Linear PDEs under Linear Inequality Constraints](https://arxiv.org/abs/2610.13804) | Boyuan Deng et al. |
+| 2026-10-09 | [Adaptive Variance Reduction without Knowing Oracle Smoothness](https://arxiv.org/abs/2610.13799) | Wei Jiang et al. |
+| 2026-10-09 | [Randomized Momentum Transport with Cheap Predictors](https://arxiv.org/abs/2610.13789) | El Mahdi Chayti et al. |
+| 2026-10-09 | [Optimal Algorithms for Nonsmooth Nonconvex Stochastic Optimization with Constraints](https://arxiv.org/abs/2610.13787) | Gon Buzaglo et al. |
+| 2026-10-09 | [Geometry-Aware Multi-Objective Optimization: Norm-Constrained Oracles with Entropic Weight Updates](https://arxiv.org/abs/2610.13773) | El Mahdi Chayti et al. |
+| 2026-10-09 | [Private and Distributionally Robust Federated Multiclass Classification](https://arxiv.org/abs/2610.13631) | Andrea P. Hernandez et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
@@ -51,12 +51,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,758 | 2026-10-03 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,761 | 2026-10-03 |
 | [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,199 | 2026-10-01 |
-| [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,638 | 2026-07-19 |
+| [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,640 | 2026-07-19 |
 | [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,266 | 2026-09-30 |
 | [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) | All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra a |  | 1,008 | 2026-01-06 |
-| [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 480 | 2026-04-09 |
+| [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 481 | 2026-04-09 |
 | [lupantech/MathVista](https://github.com/lupantech/MathVista) | MathVista: data, code, and evaluation for Mathematical Reasoning in Visual Contexts | Jupyter Notebook | 367 | 2026-07-27 |
 | [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 |  | 265 | 2026-09-30 |
 <!-- CODE:END -->
