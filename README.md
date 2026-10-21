@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-20 04:35 UTC_
+_Last refreshed: 2026-10-21 04:36 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -35,14 +35,14 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-19 | [Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity](https://arxiv.org/abs/2610.26839) | Youran Dong et al. |
-| 2026-10-19 | [Next Best Action: Causal Constrained Offline RL for Business Action Targeting](https://arxiv.org/abs/2610.26817) | Surya Ramachandiran et al. |
-| 2026-10-19 | [Training with ML-labeled Data via Stochastic First- and Zeroth-Order Optimization](https://arxiv.org/abs/2610.26790) | Maria-Eleni Sfyraki et al. |
-| 2026-10-19 | [Gradient descent reaches arbitrary accuracy in a fixed number of large steps on multiclass logistic regression](https://arxiv.org/abs/2610.26748) | Andreea-Alexandra Musat et al. |
-| 2026-10-19 | [Polar Switch: Fast Muon Orthogonalization with Polynomial Circuits](https://arxiv.org/abs/2610.26742) | Zhehang Du et al. |
-| 2026-10-19 | [Deep Pontryagin Learning for Continuous-Time Stochastic Control with Jumps](https://arxiv.org/abs/2610.26718) | Jean-Loup Dupret et al. |
-| 2026-10-19 | [A Simple and Unified Method for Gradient-Variation Regret](https://arxiv.org/abs/2610.26473) | Hang Yu et al. |
-| 2026-10-19 | [Residual-Based Adaptive Refinement in Hybrid Variational-Collocation PINNs for Singular Elliptic PDEs with Mixed Dirichlet-Neumann Boundary Conditions](https://arxiv.org/abs/2610.26458) | Somnath Giri et al. |
+| 2026-10-20 | [Continuous-Time Policy Gradient from Discrete Data: Convergence Analysis and Model-Free Algorithms](https://arxiv.org/abs/2610.28580) | Martin Hernandez et al. |
+| 2026-10-20 | [OptScientist: Automated Discovery of Optimization Laws](https://arxiv.org/abs/2610.28562) | Ma ZhenYao et al. |
+| 2026-10-20 | [Convergence of stochastic gradient descent for learning linear neural networks](https://arxiv.org/abs/2610.28561) | Gabin Maxime Nguegnang et al. |
+| 2026-10-20 | [Variance Reduction with Delayed Feedback for Non-Convex Optimization](https://arxiv.org/abs/2610.28510) | Wei Jiang et al. |
+| 2026-10-20 | [Claims of emergence in AI should be grounded in information decomposition](https://arxiv.org/abs/2610.28479) | Christoph Riedl et al. |
+| 2026-10-20 | [Confessions of a Masked MDP](https://arxiv.org/abs/2610.28360) | Sebastian Reboul et al. |
+| 2026-10-20 | [Local Work, Global Progress: A Convergence Theory of AI Agent Collaboration](https://arxiv.org/abs/2610.28286) | Ivan Ilin et al. |
+| 2026-10-20 | [Weak-$L^α$ Noise, Strong Guarantees: Gradient Clipping under Affine Heavy Tails](https://arxiv.org/abs/2610.28107) | Alyona Nekrasova et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
@@ -51,12 +51,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,778 | 2026-10-03 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,784 | 2026-10-03 |
 | [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,200 | 2026-10-01 |
-| [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,653 | 2026-07-19 |
+| [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,655 | 2026-07-19 |
 | [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,270 | 2026-09-30 |
 | [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) | All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra a |  | 1,008 | 2026-01-06 |
-| [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 483 | 2026-04-09 |
+| [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 482 | 2026-04-09 |
 | [lupantech/MathVista](https://github.com/lupantech/MathVista) | MathVista: data, code, and evaluation for Mathematical Reasoning in Visual Contexts | Jupyter Notebook | 367 | 2026-07-27 |
 | [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 |  | 270 | 2026-09-30 |
 <!-- CODE:END -->
