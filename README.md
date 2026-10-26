@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-25 04:35 UTC_
+_Last refreshed: 2026-10-26 04:40 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -35,14 +35,14 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-22 | [Phase Transition from Random Features to Fully Trainable Networks](https://arxiv.org/abs/2610.31663) | Xin He et al. |
-| 2026-10-22 | [Direct Inference on Admissible Sets (Diona)](https://arxiv.org/abs/2610.31526) | Lorenzo Sabug et al. |
-| 2026-10-22 | [Structure-preserving reduced-order models of thin panels in supersonic and hypersonic flow](https://arxiv.org/abs/2610.31504) | Miguel A. Aguilo |
-| 2026-10-22 | [Dimension-free regimes for unadjusted Langevin in ridge-separable models: A subspace robust Wasserstein analysis](https://arxiv.org/abs/2610.31431) | Yuansi Chen et al. |
-| 2026-10-22 | [Convex Equilibrium Potentials for Monge--Ampère: Curvature Bounds and A Posteriori Evaluation](https://arxiv.org/abs/2610.31386) | Edison Vázquez et al. |
-| 2026-10-22 | [Deep Learning for Random Objects in Metric Spaces: Beyond Manifold Assumptions](https://arxiv.org/abs/2610.31328) | Marcos Matabuena et al. |
-| 2026-10-22 | [Deep ReLU Networks Can Fail the Best Approximation Property for Continuous Target Functions](https://arxiv.org/abs/2610.31264) | Sebastian Kassing |
-| 2026-10-21 | [LLM2Cert: LLM Synthesis of Certificates with SMT/Lean Verification](https://arxiv.org/abs/2610.30524) | Zhipeng Cao et al. |
+| 2026-10-23 | [Multiplicative vs. Additive State Coupling in Learned Optimizer Schedules](https://arxiv.org/abs/2610.32801) | M. Harper Langston et al. |
+| 2026-10-23 | [Score-Preserving Continual Lasso under Task Shift](https://arxiv.org/abs/2610.32708) | Jingyi Guo et al. |
+| 2026-10-23 | [Universal neural network approximation of symmetric polyconvex energies and envelopes](https://arxiv.org/abs/2610.32598) | Florian Gammer |
+| 2026-10-23 | [Contextual Decision Making: Predictive or Generative](https://arxiv.org/abs/2610.32584) | L. Jeff Hong et al. |
+| 2026-10-23 | [Exact Global Minimax Risk near Nonidentification](https://arxiv.org/abs/2610.32546) | Kaiyue Yang et al. |
+| 2026-10-23 | [Sharpness-aware Orthogonalized Momentum Algorithms](https://arxiv.org/abs/2610.32465) | Geetika et al. |
+| 2026-10-23 | [On the Limits of Stochastic Push-Pull over Time-Varying Digraphs](https://arxiv.org/abs/2610.32422) | Feiming Wang et al. |
+| 2026-10-23 | [CoPiT: A conditional Position-induced Transformer for aerodynamic field prediction on unstructured meshes](https://arxiv.org/abs/2610.32299) | Junfeng Chen et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
@@ -51,14 +51,14 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,798 | 2026-10-03 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,804 | 2026-10-03 |
 | [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,200 | 2026-10-01 |
-| [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,686 | 2026-07-19 |
+| [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,687 | 2026-07-19 |
 | [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,271 | 2026-09-30 |
 | [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) | All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra a |  | 1,010 | 2026-01-06 |
 | [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 481 | 2026-04-09 |
 | [lupantech/MathVista](https://github.com/lupantech/MathVista) | MathVista: data, code, and evaluation for Mathematical Reasoning in Visual Contexts | Jupyter Notebook | 367 | 2026-07-27 |
-| [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 |  | 272 | 2026-09-30 |
+| [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 |  | 273 | 2026-09-30 |
 <!-- CODE:END -->
 
 ## ▶️ Start here: three free video series
