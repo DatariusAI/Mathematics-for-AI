@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-02 04:28 UTC_
+_Last refreshed: 2026-11-03 04:26 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -35,14 +35,14 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-10-27 | [MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control](https://arxiv.org/abs/2610.37647) | Athanasios Glentis et al. |
-| 2026-10-27 | [Regression Functions as Fields on Covariate Space: Evolution Equations, the Hessian, and Identification](https://arxiv.org/abs/2610.37500) | Nobuaki Tanaka |
-| 2026-10-27 | [Displacement Moments and Path-Terminal Separation in Brownian Interpolant Sampling](https://arxiv.org/abs/2610.37413) | Zhong Han |
-| 2026-10-27 | [Para-Gaussian Approximations of Random Deep Neural Networks](https://arxiv.org/abs/2610.37388) | Mihai Nica et al. |
-| 2026-10-27 | [Variable-Length Feedback Coding With Universal Decoding and Bandit Channel Selection](https://arxiv.org/abs/2610.36818) | Recep Can Yavas |
-| 2026-10-27 | [Frequency-Uniform Log-Regret Reinforcement Learning for Diffusions](https://arxiv.org/abs/2610.36758) | Jose Blanchet et al. |
-| 2026-10-27 | [PDE-Based Bounds on Optimal Exponents in Active Simple Hypothesis Testing](https://arxiv.org/abs/2610.36657) | Sushant Vijayan et al. |
-| 2026-10-27 | [Wasserstein approximation of measures via orthogonal frames: statistical and computational complexities](https://arxiv.org/abs/2610.36581) | Mateo Díaz et al. |
+| 2026-11-01 | [OC-OPD: Observation-coordinated Supervision for On-Policy Distillation](https://arxiv.org/abs/2611.01965) | Ruoran Xu et al. |
+| 2026-11-01 | [Federated Estimation of Loading Spaces in Tensor Factor Models under Differential Privacy](https://arxiv.org/abs/2611.01903) | Zetai Cen et al. |
+| 2026-11-01 | [Optimization Frameworks & Learning Algorithms for Discrete-Time Mean Field Games](https://arxiv.org/abs/2611.01754) | Xin Guo et al. |
+| 2026-11-01 | [Convex Regression at Scale: Geometry-Preserving Constraint Sparsification](https://arxiv.org/abs/2611.01744) | Anish Senapati et al. |
+| 2026-11-01 | [How Much Does Random Rotation Help GPTQ? Sharp Worst-Case Rate Gaps in the High-Rate Regime](https://arxiv.org/abs/2611.01669) | Runguo Li |
+| 2026-11-01 | [Learning Gradients of Homogeneous Functions](https://arxiv.org/abs/2611.01530) | Mayur S. Gowda et al. |
+| 2026-11-01 | [Transport for Conditional Sampling: Foundations and Applications](https://arxiv.org/abs/2611.01436) | Ricardo Baptista et al. |
+| 2026-11-01 | [Variational learning of energy-stable macroscopic flow equations from microscopic laws](https://arxiv.org/abs/2611.01432) | Pei Ge et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
@@ -51,9 +51,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,841 | 2026-10-03 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,848 | 2026-10-03 |
 | [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,203 | 2026-10-01 |
-| [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,728 | 2026-07-19 |
+| [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,729 | 2026-07-19 |
 | [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,272 | 2026-09-30 |
 | [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) | All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra a |  | 1,011 | 2026-01-06 |
 | [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 481 | 2026-04-09 |
