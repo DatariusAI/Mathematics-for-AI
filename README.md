@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-05 04:27 UTC_
+_Last refreshed: 2026-11-06 04:27 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -35,14 +35,14 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-11-01 | [OC-OPD: Observation-coordinated Supervision for On-Policy Distillation](https://arxiv.org/abs/2611.01965) | Ruoran Xu et al. |
-| 2026-11-01 | [Federated Estimation of Loading Spaces in Tensor Factor Models under Differential Privacy](https://arxiv.org/abs/2611.01903) | Zetai Cen et al. |
-| 2026-11-01 | [Optimization Frameworks & Learning Algorithms for Discrete-Time Mean Field Games](https://arxiv.org/abs/2611.01754) | Xin Guo et al. |
-| 2026-11-01 | [Convex Regression at Scale: Geometry-Preserving Constraint Sparsification](https://arxiv.org/abs/2611.01744) | Anish Senapati et al. |
-| 2026-11-01 | [How Much Does Random Rotation Help GPTQ? Sharp Worst-Case Rate Gaps in the High-Rate Regime](https://arxiv.org/abs/2611.01669) | Runguo Li |
-| 2026-11-01 | [Learning Gradients of Homogeneous Functions](https://arxiv.org/abs/2611.01530) | Mayur S. Gowda et al. |
-| 2026-11-01 | [Transport for Conditional Sampling: Foundations and Applications](https://arxiv.org/abs/2611.01436) | Ricardo Baptista et al. |
-| 2026-11-01 | [Variational learning of energy-stable macroscopic flow equations from microscopic laws](https://arxiv.org/abs/2611.01432) | Pei Ge et al. |
+| 2026-11-05 | [Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness](https://arxiv.org/abs/2611.08457) | Yi Feng et al. |
+| 2026-11-05 | [Data-driven discovery of intrinsic Lie point symmetries of differential equation systems](https://arxiv.org/abs/2611.08421) | Ilker Gurcan et al. |
+| 2026-11-05 | [Dynamic Optimistic Constrained OCO with Memory via Delay Equivalence](https://arxiv.org/abs/2611.08302) | Mohammed Abdullah et al. |
+| 2026-11-05 | [AI-Native Task-Oriented Semantic Communications over a Relay: Benefits and Vulnerabilities](https://arxiv.org/abs/2611.08155) | Yalin E. Sagduyu et al. |
+| 2026-11-05 | [Randomized and Oracle-Based Feasible Directions Methods for Nonsmooth Nonconvex Constrained Optimization](https://arxiv.org/abs/2611.07691) | Dan Greenstein et al. |
+| 2026-11-05 | [Learning and Steering in Incomplete-Information Games](https://arxiv.org/abs/2611.07589) | Asrın Efe Yorulmaz et al. |
+| 2026-11-05 | [Truncated backpropagation through time induces a two-sided gradient turnpike property](https://arxiv.org/abs/2611.07415) | Julian D. Schiller et al. |
+| 2026-11-05 | [Asymptotic-Preserving Tensor Neural Networks for 3D High-Field Kinetic Equations with Applications to Uncertainty Quantification](https://arxiv.org/abs/2611.07364) | Shi Jin et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
@@ -51,7 +51,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,853 | 2026-10-03 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,859 | 2026-10-03 |
 | [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,202 | 2026-10-01 |
 | [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,730 | 2026-07-19 |
 | [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,272 | 2026-09-30 |
