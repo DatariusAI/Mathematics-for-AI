@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-11 04:27 UTC_
+_Last refreshed: 2026-11-12 04:27 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -35,14 +35,14 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-11-08 | [CHANNELS4WORLD: An Environment-Scale Dataset for Wireless Foundation Models](https://arxiv.org/abs/2611.11428) | Joonkyu Jang et al. |
-| 2026-11-08 | [Orthogonal Updates for the Win: Towards Accelerated Adaptive Minimax Optimization](https://arxiv.org/abs/2611.11387) | Zhiwei Zhai et al. |
-| 2026-11-08 | [CVaR Deep Optimal Stopping](https://arxiv.org/abs/2611.11332) | Yechan Jeong et al. |
-| 2026-11-08 | [Variance-Reduced Stochastic Hessian-Driven Nesterov Acceleration with Adam-Style Preconditioning](https://arxiv.org/abs/2611.11277) | Yaxin Yu et al. |
-| 2026-11-08 | [Chatter Attack: Resource Consumption Attack for Large Language Models](https://arxiv.org/abs/2611.11261) | Yibo Miao et al. |
-| 2026-11-08 | [Optimal Polynomial-Query Approximation for Consistent Submodular Maximization with Short Lookahead](https://arxiv.org/abs/2611.11124) | Vaneet Aggarwal |
-| 2026-11-08 | [Scalable Neural Safety Certification via Monotonicity](https://arxiv.org/abs/2611.11119) | Amirreza Alavi et al. |
-| 2026-11-07 | [Improving Analytic Constants via Interpretable AI-Guided Lean Proof Refinement](https://arxiv.org/abs/2611.10961) | Rahul Saha et al. |
+| 2026-11-10 | [Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model](https://arxiv.org/abs/2611.14468) | Duc-Lam Duong |
+| 2026-11-10 | [A Theory of Cross-Validation Variance](https://arxiv.org/abs/2611.14463) | Nathaniel S. O'Connell et al. |
+| 2026-11-10 | [Nonparametric Maximum Likelihood Estimation for Mixtures of Logistic Regressions](https://arxiv.org/abs/2611.14445) | Muheng Li et al. |
+| 2026-11-10 | [On Federated Averaging with Partial Participation under a General Variance Condition](https://arxiv.org/abs/2611.14239) | Ziming Wang et al. |
+| 2026-11-10 | [On the Spectral Estimation of VARMA Processes](https://arxiv.org/abs/2611.13973) | Bin Zhu et al. |
+| 2026-11-10 | [Geometry-Dependent Approximation and Stability Properties of Shallow ReLU$^k$ Networks on Bounded Euclidean Domains](https://arxiv.org/abs/2611.13952) | Yuqing Liu et al. |
+| 2026-11-10 | [Dual-Space Preconditioning for Variational Inequalities and Root-Finding Problems](https://arxiv.org/abs/2611.13916) | Jan Quan et al. |
+| 2026-11-10 | [Optimal Last-Iterate Bounds for Nonexpansive Stochastic Approximation](https://arxiv.org/abs/2611.13846) | Ramanan Tamizholi et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
@@ -51,7 +51,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,873 | 2026-10-03 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,877 | 2026-10-03 |
 | [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,204 | 2026-10-01 |
 | [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,731 | 2026-07-19 |
 | [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,273 | 2026-09-30 |
