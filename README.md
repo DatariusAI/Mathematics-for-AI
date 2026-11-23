@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-22 04:28 UTC_
+_Last refreshed: 2026-11-23 04:30 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -35,14 +35,14 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-11-19 | [Simple Private Noisy SGD is Minimax-Optimal under Population Strong Convexity](https://arxiv.org/abs/2611.26515) | Valentin Roth et al. |
-| 2026-11-19 | [A new algorithmic approach for finding flat minima: critically damped Polyak stepsizes](https://arxiv.org/abs/2611.26475) | Francesco Caporali et al. |
-| 2026-11-19 | [Flow Matching from Non-Gaussian Sources: A Theory of Efficient Sampling](https://arxiv.org/abs/2611.26407) | Yuchen Zhou et al. |
-| 2026-11-19 | [Approximate Adjoint Models for Memory and Compute-Efficient Online Learning of Hybrid Models](https://arxiv.org/abs/2611.26095) | Emilio González-Zamora et al. |
-| 2026-11-19 | [X Hedging: towards an eXplainable artificial intelligence option Hedging framework](https://arxiv.org/abs/2611.25870) | Bjørn André Aaslund et al. |
-| 2026-11-19 | [Full Rank and Stable Sampling of $\tanh$ Networks](https://arxiv.org/abs/2611.25867) | Philipp Grohs et al. |
-| 2026-11-19 | [Safeguarded Learning-Assisted Nonlinear Conjugate Gradient Methods](https://arxiv.org/abs/2611.25707) | Morteza Kimiaei et al. |
-| 2026-11-19 | [Dynamics of Protected State Evolution](https://arxiv.org/abs/2611.25541) | Qinyou Wang |
+| 2026-11-20 | [Optimal Linear Regression Without a Variance](https://arxiv.org/abs/2611.27983) | Artin Tajdini et al. |
+| 2026-11-20 | [Communication-Efficient Federated Learning of Latent Patient Representations from Multi-Institutional EHRs](https://arxiv.org/abs/2611.27900) | Zhiyu Yan et al. |
+| 2026-11-20 | [Energy-preserving Bayesian model reduction: closed-form structured posteriors and probabilistic stability certificates for quadratic operator inference](https://arxiv.org/abs/2611.27794) | João Victor Galvão da Mata et al. |
+| 2026-11-20 | [An Asymptotic One-Sample Surrogate for Non-Gaussian ERM with General Convex Regularization](https://arxiv.org/abs/2611.27754) | Tianjian Zhang et al. |
+| 2026-11-20 | [Can pretrained Transformers deliver semiparametrically efficient inference?](https://arxiv.org/abs/2611.27666) | Han Yan et al. |
+| 2026-11-20 | [Late-Time Dynamics of Flow Matching: Distance Geometry and Learning](https://arxiv.org/abs/2611.27653) | Umberto Biccari et al. |
+| 2026-11-20 | [Do DeepONet Trunk-Basis Preconditioners Need Training?](https://arxiv.org/abs/2611.27582) | Jaemin Oh et al. |
+| 2026-11-20 | [Constraint-Aware Anticlustering Decomposition for Certifying Pairwise-Constrained Clustering](https://arxiv.org/abs/2611.27496) | Anna Livia Croella et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
@@ -51,14 +51,14 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,899 | 2026-10-03 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,904 | 2026-10-03 |
 | [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,203 | 2026-10-01 |
 | [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,732 | 2026-07-19 |
-| [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,271 | 2026-09-30 |
-| [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) | All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra a |  | 1,016 | 2026-01-06 |
+| [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,272 | 2026-09-30 |
+| [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) | All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra a |  | 1,017 | 2026-01-06 |
 | [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 485 | 2026-04-09 |
+| [cachedarknorth54/wolfram-alpha-pro-win](https://github.com/cachedarknorth54/wolfram-alpha-pro-win) | Wolfram Research Wolfram Alpha Pro - computational knowledge engine for symbolic mathematics, data analysis and curated datasets on Windows  |  | 399 | 2026-11-21 |
 | [lupantech/MathVista](https://github.com/lupantech/MathVista) | MathVista: data, code, and evaluation for Mathematical Reasoning in Visual Contexts | Jupyter Notebook | 367 | 2026-11-14 |
-| [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 |  | 288 | 2026-11-18 |
 <!-- CODE:END -->
 
 ## ▶️ Start here: three free video series
