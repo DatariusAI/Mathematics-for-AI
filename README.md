@@ -3,7 +3,7 @@
 A free, organised path through the mathematics behind modern AI. Each branch has free books, courses, YouTube lectures, key papers, interactive apps and a runnable code example.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-23 04:30 UTC_
+_Last refreshed: 2026-11-24 04:28 UTC_
 <!-- STAMP:END -->
 
 ## 🗺️ Branches
@@ -35,14 +35,14 @@ Newest arXiv papers on the theory and mathematics of machine learning. Refreshed
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-11-20 | [Optimal Linear Regression Without a Variance](https://arxiv.org/abs/2611.27983) | Artin Tajdini et al. |
-| 2026-11-20 | [Communication-Efficient Federated Learning of Latent Patient Representations from Multi-Institutional EHRs](https://arxiv.org/abs/2611.27900) | Zhiyu Yan et al. |
-| 2026-11-20 | [Energy-preserving Bayesian model reduction: closed-form structured posteriors and probabilistic stability certificates for quadratic operator inference](https://arxiv.org/abs/2611.27794) | João Victor Galvão da Mata et al. |
-| 2026-11-20 | [An Asymptotic One-Sample Surrogate for Non-Gaussian ERM with General Convex Regularization](https://arxiv.org/abs/2611.27754) | Tianjian Zhang et al. |
-| 2026-11-20 | [Can pretrained Transformers deliver semiparametrically efficient inference?](https://arxiv.org/abs/2611.27666) | Han Yan et al. |
-| 2026-11-20 | [Late-Time Dynamics of Flow Matching: Distance Geometry and Learning](https://arxiv.org/abs/2611.27653) | Umberto Biccari et al. |
-| 2026-11-20 | [Do DeepONet Trunk-Basis Preconditioners Need Training?](https://arxiv.org/abs/2611.27582) | Jaemin Oh et al. |
-| 2026-11-20 | [Constraint-Aware Anticlustering Decomposition for Certifying Pairwise-Constrained Clustering](https://arxiv.org/abs/2611.27496) | Anna Livia Croella et al. |
+| 2026-11-22 | [When Simpler Beats Learned: Dual-Weighted Sampling vs. Machine Learning for the Pricing Subproblem in Graph Coloring](https://arxiv.org/abs/2611.29769) | Nikolai Antonov et al. |
+| 2026-11-22 | [Continuous-Time LQR from a Single Discrete-Time Off-Policy Batch](https://arxiv.org/abs/2611.29725) | Chaorui Yao et al. |
+| 2026-11-22 | [Ziv Meets Sumcheck: Zero-Knowledge Proofs of Floating-Point LLM Inference](https://arxiv.org/abs/2611.29188) | Hassan Khodaiemehr et al. |
+| 2026-11-22 | [Handover Cost Optimization in LEO Satellite Networks using an RL-based Multiple-Column Selection Strategy via Branch-and-Price](https://arxiv.org/abs/2611.29129) | Mandar R. Nalavade et al. |
+| 2026-11-21 | [Neural Costate Guidance for Autonomous Cislunar Low-Thrust Trajectory Generation](https://arxiv.org/abs/2611.29100) | Jannik Graebner et al. |
+| 2026-11-21 | [Sub-Gaussian HDLSS Principal Component Analysis: High-Probability Theory and Numerical Evidence for NRM, CDM, and Block Noise Reduction](https://arxiv.org/abs/2611.29058) | Yugo Nakayama |
+| 2026-11-21 | [Mirror Descent at the Edge of Stability](https://arxiv.org/abs/2611.29043) | Vincent X. Wang et al. |
+| 2026-11-21 | [JAX-Nano: A GPU-Accelerated Differentiable Phonon Boltzmann Transport Solver for Nanoscale Heat Transfer](https://arxiv.org/abs/2611.28926) | Bo Zhang et al. |
 <!-- ARXIV:END -->
 
 ## 💻 Popular open-source math-for-ML code
@@ -51,14 +51,14 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,904 | 2026-10-03 |
-| [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,203 | 2026-10-01 |
+| [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | C++ | 34,907 | 2026-10-03 |
+| [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The AI Compendium, previously called the ML Compendium, curates resources and explanations of machine learning (ML) and deep learning, from  |  | 2,204 | 2026-10-01 |
 | [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) | A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, program |  | 1,732 | 2026-07-19 |
 | [ilmoi/MML-Book](https://github.com/ilmoi/MML-Book) | Code / solutions for Mathematics for Machine Learning (MML Book) | Jupyter Notebook | 1,272 | 2026-09-30 |
-| [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) | All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra a |  | 1,017 | 2026-01-06 |
-| [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 485 | 2026-04-09 |
-| [cachedarknorth54/wolfram-alpha-pro-win](https://github.com/cachedarknorth54/wolfram-alpha-pro-win) | Wolfram Research Wolfram Alpha Pro - computational knowledge engine for symbolic mathematics, data analysis and curated datasets on Windows  |  | 399 | 2026-11-21 |
+| [analyticalrohit/AI-ML-Cheatsheets](https://github.com/analyticalrohit/AI-ML-Cheatsheets) | All Stanford Cheatsheets: Artificial Intelligence, Transformers, LLMs, Deep Learning, Machine Learning, Probabilities, Statistics, Algebra a |  | 1,018 | 2026-01-06 |
+| [baidu-baige/LoongFlow](https://github.com/baidu-baige/LoongFlow) | LoongFlow is an expert-grade Agent framework for Loop Engineering. Through a Plan-Execute-Summary loop and structured experiential memory, i | Python | 486 | 2026-04-09 |
 | [lupantech/MathVista](https://github.com/lupantech/MathVista) | MathVista: data, code, and evaluation for Mathematical Reasoning in Visual Contexts | Jupyter Notebook | 367 | 2026-11-14 |
+| [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese) | mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版 |  | 289 | 2026-11-18 |
 <!-- CODE:END -->
 
 ## ▶️ Start here: three free video series
